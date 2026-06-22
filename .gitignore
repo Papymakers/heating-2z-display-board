@@ -1,0 +1,8 @@
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Fichiers sources EasyEDA et Gerbers (non distribués)
+*.json
+*.zip
+gerber/
