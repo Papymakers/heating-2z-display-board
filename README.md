@@ -56,7 +56,7 @@ Carte intermédiaire assurant :
 
 ---
 
-## Aperçu PCB
+## Aperçu FACE AVANT
 
 ![PCB afficheur](hardware/pcb/panneau-de-contrôle_2.png)
 
