@@ -58,7 +58,7 @@ Carte intermédiaire assurant :
 
 ## Aperçu PCB
 
-![PCB afficheur](hardware/pcb/pcb_tm1637_afficheur.png)
+![PCB afficheur](hardware/pcb/panneau-de-contrôle_2.png)
 
 *PCB Heating Control 08/25 — vue EasyEDA*
 
