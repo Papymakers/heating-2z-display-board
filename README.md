@@ -27,9 +27,9 @@ Carte de fond portant :
 
 ### PCB 3 — Liaison + Switches
 Carte intermédiaire assurant :
-- la connexion vers la **carte principale ESP32-C6** via le connecteur H1 (KH-2.54PH180-1X8P, pas 2.54mm, 8 broches)
-- le support des **2 switches** SW1 et SW2 (sélection zone / changement de mode)
-
+- la connexion vers la **carte principale ESP32-C6** via le connecteur ZIF H1 pas 2.54mm, 8 points (TE Connectivity réf. constructeur 487925-1)
+- le support des **2 switches** SW1 et SW2 -changement de mode - (OMRON réf. constructeur B3F-3150) 
+- Key Cap 6mm black (OMRON ref. constructeur B32-2010)
 ---
 
 ## Schéma électrique
